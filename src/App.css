@@ -1,0 +1,33 @@
+.loadingBarContainer {
+  background-color: #ffff;
+  /* display: none; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  /* margin: auto; */
+  z-index: 1000;
+}
+.loadingBarContainer h1{
+  position: absolute;
+  top: 65%;
+  left: 33%;
+  right: 0;
+  bottom: 0;
+  color: black;
+  z-index: 20001;
+}
+.loadingBar {
+  /* display: none; */
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  right: 0;
+  bottom: 0;
+
+  z-index: 10000;
+}

@@ -1,0 +1,114 @@
+.container-fluid {
+  font-family: Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  padding: 0;
+  margin: 0;
+}
+
+.bannerendcard2 {
+  border-radius: 0.3rem;
+  background-color: white;
+  margin: 20px 0px;
+  border: 1px solid gold;
+}
+.bannerendcard2 .row span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+.bannerendcard2 .row .stakeinput {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  color: black;
+  background-color: white;
+  border: none;
+  border-bottom: 3px solid gold;
+  /* border-color: #444; */
+  padding: 0.2rem 0rem;
+  border-radius: 0.3rem;
+  outline: none;
+  font-size: 20px;
+  /* border: 1px solid rgb(14,4,77); */
+}
+/* .bannerendcard2 button{
+    margin: 10px;
+    background-color: #00BC8C;
+    border: #00BC8C;
+}
+
+.bannerendcard2 button:hover{
+    background-color: #034131;
+    border: #00BC8C;
+    color: white;
+} */
+
+/* .bannerendcard2 .row{
+    display: flex;
+} */
+.bannerendprofit {
+  display: flex;
+  /* justify-content: left; */
+  text-align: start;
+  color: black;
+  padding: 3px 0 0;
+  margin: 0;
+  font-size: 12px;
+  /* border: 2px solid red; */
+}
+
+.bannerendvalue {
+  display: flex;
+  color: gold;
+  font-size: 20pt;
+  font-weight: 600;
+  padding: 0 0 3px;
+  margin: 0;
+}
+.bannerendvalue1 {
+  display: flex;
+  color: gold;
+  font-size: 14pt;
+  font-weight: 600;
+  padding: 0 0 3px;
+  margin: 0;
+}
+
+.bannerendcard2 .bannerendnote {
+  line-height: 1;
+  margin: 0 0 5px;
+  padding: 0;
+  color: wheat;
+  font-size: small;
+  font-style: italic;
+}
+.container .row .bannerendnwarnings {
+  display: flex;
+  align-items: flex-start;
+  font-size: 10pt;
+  color: white;
+}
+
+#plan1 {
+  position: relative;
+  left: 12.9px;
+  top: -0.3px;
+  width: 60px;
+  height: 30px;
+  background-color: gold;
+  margin-left: -13px;
+  border-radius: 5px 0 5px 0;
+  color: black;
+}
+
+@media (max-width: 1092px) {
+}
+
+@media (max-width: 600px) {
+  .banner2 {
+    margin-left: 60px;
+    width: auto;
+  }
+}

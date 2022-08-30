@@ -1,0 +1,441 @@
+{
+    "WHATISCentercoinPLATFORM":{
+        "1":"Centercoin 플랫폼이란"
+    },
+    "Centercoinisaprojectwiththethemeofempathyamonginvestors.Oneoftheconcernsthatmostvirtualassetinvestmentholdershaveiswhentheyrealizethatthevirtualassets,theyinvestinarezero-value,withnoplacestobeused.Thishindersthecultureawarenessofvirtualassetinvestmentandaddsanegativegazetothevirtualassetandblockchainindustries.ThegoalofCenterCoin,CENT3.0istobuildareal-lifepayment-basedtokeneconomywhereholdersandprojectscancoexistandgrowcontinuouslywithoutfollowingthebadexamplesofmanyexistingvirtualassetprojects.":{
+        "1": "Centercoin은 투자자 간의 공감을 주제로 하는 프로젝트입니다. 대부분의 가상 자산 투자 보유자가 갖는 우려 중 하나는 가상 자산에 투자하는 가상 자산이 사용할 곳이 없는 제로 가치라는 것을 깨달았을 때입니다. 가상 자산 투자에 대한 문화 인식과 가상 자산 및 블록체인 산업에 대한 부정적인 시선을 추가합니다. CenterCoin, CENT 3.0의 목표는 보유자와 프로젝트가 공존하고 지속적으로 성장할 수 있는 실제 지불 기반 토큰 경제를 구축하는 것입니다. 많은 기존 가상 자산 프로젝트의 나쁜 예."
+    },
+    "DecentralizedExchange":{
+        "1": "탈중앙화교환"
+    },
+    "CenterSwapisaprotocoldesignedtofacilitateautomaticexchangetransactionsbetweenEthereum(ETH)andERC-20tokens,andtheprotocolcanbeutilizedifadecentralizedwalletisinstalled.ThetypesoftransactionsthatcanbeexecutedareETHandERC-20.PricefluctuationsbetweenETHandERC-20arebasedontherelativityoftheliquiditypoolinthecontract,andtransactionsbetweenERC-20andERC-20arealsosupported":{
+        "1": "블록체인 / 분산원장 기술"
+    },
+    "CenterSwapisaprotocoldesignedtofacilitateautomaticexchangetransactionsbetweenEthereum(ETH)andERC20tokens,andtheprotocolcanbeutilizedifadecentralizedwalletisinstalled.ThetypesoftransactionsthatcanbeexecutedareETHandERC20.PricefluctuationsbetweenETHandERC20arebasedontherelativityoftheliquiditypoolinthecontract,andtransactionsbetweenERC-20andERC-20arealsosupported.":{
+        "1": "Center Swap은 이더리움(ETH)과 ERC-20 토큰 간의 자동 교환 거래를 용이하게 하기 위해 설계된 프로토콜로, 탈중앙화 지갑이 설치되어 있으면 활용할 수 있습니다. 실행할 수 있는 트랜잭션의 유형은 ETH 및 ERC -20입니다. ETH와 ERC-20 간의 가격 변동은 계약의 유동성 풀의 상대성을 기반으로 하며 ERC-20과 ERC-20 간의 거래도 지원됩니다."
+    },
+    "Distributedledgertechnologyusuallycomeswithrestrictionsonitsaccessanduse.":{
+        "1": "분산 원장 기술은 일반적으로 액세스 및 사용에 제한이 있습니다."
+    },
+    "Itiscalledapermissionedtechnology.":{
+        "1": "허가된 기술이라고 합니다."
+    },
+    "Itcreatesledgersinadecentralizedwaytoobtainconsensusfromalltheparticipants.":{
+        "1": "모든 참가자의 합의를 얻기 위해 분산 방식으로 원장을 생성합니다."
+    },
+    "Centerpool":{
+        "1": "센터 풀"
+    },
+    
+    "CenterCoinprovidesastakingpoolandbasicallyoffersrewardsbasedonmarketusers'paymentfees.":{
+        "1": "enter Coin은 스테이킹 풀을 제공하며 기본적으로 시장 사용자의 지불 수수료에 따라 보상을 제공합니다."
+    },
+    "Theoverallprocessisasfollows.":{
+        "1": "전체적인 과정은 다음과 같습니다."
+    },
+
+    "TheCenterCoinholdersupportsstakingbasedonsmartcontactinthecenterpool":{
+        "1": "센터 코인 홀더는 센터 풀에서 스마트 컨택을 기반으로 스테이킹을 지원합니다."
+    },
+    "Marketusers'transactionsandpaymentfeesincurredintheCenterDEXmarketandtheNFTmarketareallocatedtotheCenterPool.":{
+        "1": "Center DEX 시장과 NFT 시장에서 발생하는 마켓 사용자의 거래 및 결제 수수료는 Center Pool에 할당됩니다."
+    },
+    "TheCenterCoinstakerwillberewardedwithafee-basedreward.":{
+        "1": "Center Coin 스테이커는 수수료 기반 보상으로 보상을 받습니다."
+    },
+    "CompensationispaidaccordingtotheAPYdeterminedbythefoundation,whichhasvolatilitydependingontheparticipant.":{
+        "1": "보상은 재단이 결정한 APY에 따라 지급되며 참여자에 따라 변동성이 있습니다."
+    },
+    "spanmyreferal":{
+        "1": "내 추천 링크:"
+    },
+    "IMMUTABILITY":{
+        "1": "불변성:"
+    },
+    "Decentralizedservicesarethebackboneofourfuturisticsociety.Beitassetmanagementorenergymanagement;therewillbedecentralizedservicesforeverysectoroutthere.Thiswillgivepeopleunprecedentedaccesstotheoptionsthatarecurrentlynotavailableinthemarket.Almosteverysectorwillhavedecentralizedservices.":{
+        "1": "분산 서비스는 우리 미래 사회의 중추입니다. 자산 관리든 에너지 관리든; 모든 부문에 분산된 서비스가 있을 것입니다. 이것은 사람들에게 현재 시장에서 사용할 수 없는 옵션에 대한 전례 없는 액세스를 제공할 것입니다. 거의 모든 부문에 분산된 서비스가 있습니다."
+    },
+    "NFTMarket":{
+        "1": "NFT마켓"
+    },
+    "CentercoinOverview":{
+        "1": "센터코인 개요"
+    },
+    "CenterCoinwillsupporttheNFTmarket.":{
+        "1": "Center Coin은 NFT 시장을 지원합니다."
+    },
+    "UsersloginusingCenterWallettoproceedwiththetransaction.":{
+        "1": "사용자는 거래를 진행하기 위해 Center Wallet을 사용하여 로그인합니다."
+    }
+    ,
+    "PaymentfeeETH":{
+        "1": "지불 수수료 ETH"
+    }
+    ,
+    "paymenttokenCenterCoin":{
+        "1": "지불 토큰 센터 코인"
+    }
+    ,
+    "Itsupportsfixedpricesales,fallingpricesales,orauctionpricesales.":{
+        "1": "고정 가격 판매, 하락 가격 판매 또는 경매 가격 판매를 지원합니다."
+    }
+    ,
+    "Inthecaseofanauction,biddingconditionsmustbepresented,andinthecaseofafallingprice,buyerscanpurchase.":{
+        "1": "경매의 경우 입찰조건을 제시해야 하며, 낙찰가의 경우 구매자가 매수할 수 있다."
+    }
+    ,
+    "Pricesystem":{
+        "1": "가격 체계"
+    }
+    ,
+    "ThecurrentpricestartsatThestartingpriceandgraduallyfallsuntilitreachesthebottomprice.":{
+        "1": "현재 가격은 시작 가격에서 시작하여 최저 가격에 도달할 때까지 점진적으로 하락합니다."
+    }
+    ,
+    "Itisablockchainbasedmarket,andusersusesmartcontacttopromotetransactíons.":{
+        "1": "블록체인 기반 시장이며 사용자는 스마트 컨택을 사용하여 거래를 촉진합니다."
+    }
+    ,
+    "TheNFTofThemarketisownedbyTheownerandiskeptintheownerwallet.":{
+        "1": "시장의 NFT는 소유자가 소유하고 소유자 지갑에 보관됩니다."
+    },
+    "5Game":{
+        "1": "5 게임"
+    },
+    "ThetransactionsforallproductsthatusedtheCenterCoinasameansofpaymentarerecordedanditispaidasacompensationforverifyingthisrecord.Itisanenvironmentwheregameuserspartipateintheverificationoftheblockchainjustbyrunningthegamesandarerewardedinreturn.":{
+        "1": "Center Coin을 결제수단으로 사용한 모든 상품의 거래내역이 기록되며, 이 기록을 확인하는 대가로 지급됩니다. 게임 사용자가 게임을 실행하는 것만으로도 블록체인 검증에 참여하고 그 대가로 보상을 받는 환경입니다."
+    },
+    "ThegameusercanusetheacquiredCenterCoinasapaymentmeansforacquiringalltheproductsandservicesinthegame.Moreover,theycanuseitasapaymentmethodforallproductsandservicesellersparticipatinginthetime-playenvironment.":{
+        "1": "게임 이용자는 획득한 Center Coin을 게임 내 모든 상품과 서비스를 획득하기 위한 결제 수단으로 사용할 수 있습니다. 또한 타임플레이 환경에 참여하는 모든 상품 및 서비스 판매자의 결제수단으로 사용할 수 있습니다."
+    },
+    "GameusersearnCenterCointhroughthefollowingsteps.":{
+        "1": "게임 사용자는 다음 단계를 통해 Center Coin을 획득합니다."
+    },
+    "walletaddress,startofmeasuringusagetime,verificationprocess.":{
+        "1": "지갑주소, 사용시간 측정 시작, 인증 절차"
+    },
+    "Gameusageperiod":{
+        "1": "게임 이용 기간"
+    },
+    "Measurementandverificationoftime(mining)":{
+        "1": "시간 측정 및 검증(마이닝)"
+    },
+    "Checkingofrealtimeinformation":{
+        "1": "실시간 정보 확인"
+    },
+    
+    
+    "Endofgame":{
+        "1": "게임 종료"
+    }
+,
+"Acquisitionanddistributionofcoins":{
+    "1": "코인 획득 및 배포"
+}
+,
+"sendingcoinstogameuserinformationandelectronicwalletaddress.":{
+    "1": "게임 사용자 정보 및 전자 지갑 주소로 코인을 전송합니다."
+}
+,
+    "Totalincome":{
+        "1": "총 수입"
+    },
+    "basedonyourtarrifplan":{
+        "1": "귀하의 요금제에 따라"
+    },
+    "from1%to90%daily":{
+        "1": "1%에서 90%로"
+    },
+    "Basicinterestrate:":{
+        "1": "기본이자율:"
+    },
+    "0.033%to0.123%every24hours":{
+        "1": "24시간마다 0.033% ~ 0.123%"
+    },
+    "-onlyfornewdeposits":{
+        "1": "- 신규 입금만 가능"
+    },
+    "Minimaldeposit:":{
+        "1": "최소 보증금:"
+    },
+    "1CenterCoinminimumlimit":{
+        "1": "1 CenterCoin 최소 한도"
+    },
+    "nomaximallimit":{
+        "1": "최대 제한 없음"
+    },
+    "Earnings":{
+        "1": "수입"
+    },
+    "everymoment":{
+        "1": "매 순간"
+    },
+    "withdraw":{
+        "1": "철회하다"
+    },
+    "anytime":{
+        "1": "언제든지"
+    },
+    "ifyouusecapitalizationofinterestyoucanwithdrawonlyafterendofyourdeposit":{
+        "1": "이자를 대문자로 사용하는 경우 입금이 끝난 후에만 출금할 수 있습니다."
+    },
+    "TotalContractBalance":{
+        "1": "총계약잔액"
+    },
+    "contract":{
+        "1": "계약"
+    },
+
+
+
+    "PlanA":{
+        "1": "플랜A"
+    }
+    ,
+    "DailyProfit":{
+        "1": "일일 이익"
+    }
+    ,
+    "TotalReturn":{
+        "1": "총 수익"
+    }
+    ,
+    "Withdrawtime":{
+        "1": "출금 시간"
+    }
+    ,
+    "AnyTime":{
+        "1": "언제든지"
+    }
+    ,
+    "month":{
+        "1": "월"
+    }
+    ,
+    "EnterAmount":{
+        "1": "금액을 입력하세요"
+    }
+    ,
+    "In1monthyouwillget":{
+        "1": "1개월 안에 당신은 얻을 것이다"
+    }
+    ,
+    "Approve":{
+        "1": "승인하다"
+    }
+    ,
+    "STAKE":{
+        "1": "말뚝"
+    }
+    ,
+    "PlanB":{
+        "1": "플랜 B"
+    }
+    ,
+    "PlanC":{
+        "1": "플랜 C"
+    }
+    ,
+    "In3monthsyouwillget":{
+        "1": "3개월 안에 당신은 얻을 것이다"
+    },
+    "In6monthsyouwillget":{
+        "1": "6개월 안에 당신은 얻을 것이다"
+    }
+    ,
+    "In9monthsyouwillget":{
+        "1": "9개월 안에 당신은 얻을 것이다"
+    }
+    ,
+    "In12monthsyouwillget":{
+        "1": "12개월 안에 당신은 얻을 것이다"
+    }
+    ,
+    "In24monthsyouwillget":{
+        "1": "24개월 안에 얻을 수 있는"
+    }
+    ,
+    "PlanD":{
+        "1": "플랜 D"
+    }
+    ,
+    "PlanE":{
+        "1": "플랜 E"
+    }
+    ,
+    "PlanF":{
+        "1": "플랜 F"
+    }
+    
+    ,
+    "Minimumdepositamountis1KnightDogeandyoucanhavemultipledeposits":{
+        "1": "최소 입금액은 1 Knight Doge이며 여러 입실이 가능합니다."
+    }
+    ,
+    "Earningseverymoment,withdrawinstantlyanytime":{
+        "1": "매 순간 수익, 언제든지 즉시 출금"
+    }
+    ,
+    "Important":{
+        "1": "중요한"
+    }
+    ,
+    "PlansreturnarefloatandDailyProfitforanewdepositwillincreasebydifferentPercentage":{
+        "1": "계획 반환은 유동적이며 새로운 예금에 대한 일일 이익은 다른 백분율로 증가합니다."
+    }
+    ,
+
+
+    
+    "WithdrawableReward":{
+        "1": "인출 가능한 보상"
+    }
+    ,
+    "UserTotalDeposit":{
+        "1": "사용자 총 예치금"
+    }
+    ,
+    "Withdraw":{
+        "1": "철회하다"
+    }
+    ,
+    "YourStake":{
+        "1": "귀하의 지분"
+    }
+    ,
+    "YourReferralLink":{
+        "1": "추천 링크"
+    }
+    ,
+    "copy":{
+        "1": "복사"
+    }
+    ,
+    "EarnforpromotionBNBstake":{
+        "1": "프로모션을 위해 적립 BNBstake"
+    }
+    ,
+    "Youwillreceive":{
+        "1": "당신은받을 것이다"
+    }
+    ,
+    "5%fromeachlevel1referraldepositss":{
+        "1": "각 레벨 1 추천 예치금에서 5%"
+    }
+    ,
+    "2.5%fromeachlevel2referraldeposits":{
+        "1": "각 레벨 2 추천 예치금에서 2.5%"
+    }
+    ,
+    "0.5%fromeachlevel3referraldeposits":{
+        "1": "각 레벨 3 추천 예금에서 0.5%"
+    }
+    ,
+    "Note":{
+        "1": "메모"
+    }
+    ,
+    "Youneedtohaveatleast1deposittostartreceiveearnings":{
+        "1": "수입을 받으려면 최소 1개의 보증금이 있어야 합니다."
+    }
+    ,
+    "SPONSORS":{
+        "1": "스폰서"
+    },
+
+    
+
+
+    "Poweredby":{
+        "1": "에 의해 구동"
+    },
+    "BinanceSmartChain":{
+        "1": "바이낸스 스마트체인"
+    }
+    ,"SHOWTHISINFOOTER":{
+        "1": "이것을 바닥글에 표시"
+    }
+    ,"Copyright":{
+        "1": "저작권"
+    }
+    ,"2021CENTERCOINE":{
+        "1": "2021 센터코인"
+    }
+    ,
+    "AllRightsReserved.":{
+        "1": "판권 소유."
+    }
+    ,
+    
+    "Home":{
+        "1": "집"
+    },
+    
+    
+    "WithoutLocking":{
+        "1": "잠그지 않고"
+    },
+    
+    
+    "Help":{
+        "1": "돕다"
+    }
+    ,
+    "English":{
+        "1": "영어"
+    }
+    ,
+    "Korean":{
+        "1": "한국어 "
+    }
+    ,
+    "STAKEHUTT":{
+        "1": "스테이크 헛"
+    }
+    ,
+    "TotalReferralEarned":{
+        "1": "획득한 총 추천"
+    }
+    ,
+    "TotalReferralWithdrawn":{
+        "1": "철회된 총 추천"
+    }
+    ,
+    "InvitedUsersbyYou":{
+        "1": "귀하가 초대한 사용자"
+    },
+
+
+    "Est.APY":{
+        "1": "동부 표준시. APY"
+    }
+    ,
+    "Min.Lock Amount":{
+        "1": "최소 잠금 금액"
+    }
+    ,
+    "Withdrawble":{
+        "1": "인출 가능"
+    }
+    ,
+    "NoDaysLimit":{
+        "1": "일 제한 없음"
+    }
+    ,
+    "DailyReward":{
+        "1": "일일 보상"
+    }
+    ,
+    "StakeSMS":{
+        "1": "스테이크 SMS"
+    }
+    ,
+    "CheckReward":{
+        "1": "보상 확인"
+    }
+    ,
+    "ClaimSMS":{
+        "1": "SMS 청구"
+    }
+    
+}

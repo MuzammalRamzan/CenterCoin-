@@ -1,0 +1,98 @@
+.col-lg-1 {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  /* background-color:brown; */
+  color: rgb(224, 193, 17);
+}
+.logo {
+  padding: 0;
+  /* margin-left: 60px; */
+  /* background-color: rgb(224, 193, 17); */
+  width: 100px;
+  margin-left: 60px !important;
+}
+.dropdown {
+  /* position: relative; */
+  display: inline-block;
+  /* top: -100px; */
+  /* left: 250px; */
+  /* right: -200px; */
+  /* border: 2px solid red; */
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  align-items: center;
+  /* right: 0; */
+  background-color: rgba(10, 9, 44, 0.6);
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(88, 65, 143, 0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+}
+.birtishimage {
+  width: 45px;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+  left: -20px;
+  color: antiquewhite;
+}
+#centercoin {
+  font-size: 33px;
+  align-self: center;
+  font-weight: bold;
+  padding-bottom: 10px;
+  /* border: 2px solid red; */
+  color: blue;
+  background: -webkit-linear-gradient(blue, rgb(47, 47, 241), blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* margin-top: 100px; */
+}
+@media (max-width: 600px) {
+  .logo {
+    padding: 0;
+    margin-left: 60px !important;
+    /* background-color: rgb(224, 193, 17); */
+    width: 50px;
+  }
+  #centercoin {
+    font-size: 23px;
+    align-self: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+    /* border: 2px solid red; */
+    color: blue;
+    /* margin-top: 100px; */
+  }
+}
+@media (max-width: 480px) {
+  .logo {
+    padding: 0;
+    margin-left: 30px !important;
+    /* background-color: rgb(224, 193, 17); */
+    width: 30px;
+    /* border: 2px solid red; */
+  }
+  #centercoin {
+    font-size: 15px;
+    align-self: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+    /* border: 2px solid red; */
+    color: blue;
+    /* margin-top: 100px; */
+  }
+  .navbarone {
+    margin-left: 10px;
+  }
+}

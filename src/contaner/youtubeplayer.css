@@ -1,0 +1,29 @@
+.youtubevideo {
+  width: 500px;
+  height: 370px;
+  padding-top: 30px;
+}
+@media (max-width: 600px) {
+  .youtubevideo {
+    width: 350px;
+    height: 250px;
+  }
+}
+@media (max-width: 480px) {
+  .youtubevideo {
+    width: auto;
+    height: 250px;
+  }
+}
+@media (max-width: 400px) {
+  .youtubevideo {
+    width: 250px;
+    height: 250px;
+  }
+}
+@media (max-width: 350px) {
+  .youtubevideo {
+    width: 200px;
+    height: 250px;
+  }
+}
